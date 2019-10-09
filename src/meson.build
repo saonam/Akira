@@ -72,6 +72,7 @@ sources = files(
     #'Lib/Managers/AffineTransformManager.vala',
     'Lib/Managers/ItemsManager.vala',
     'Lib/Managers/NobManager.vala',
+    'Lib/Managers/FileManager.vala',
 
     'Lib/Models/CanvasItem.vala',
     'Lib/Models/CanvasRect.vala',
